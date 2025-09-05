@@ -1,0 +1,12 @@
+*-backups/
+fp-*
+~*
+gerber/
+LiB/
+*.step
+_autosave*
+*bak
+*_prl
+*-table
+*.zip
+footprint/
